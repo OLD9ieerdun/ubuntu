@@ -6,7 +6,7 @@ const app = express();
 
 // Define a route
 app.get('/', (req, res) => {
-  res.send('Hello, this is my Node.js server!');
+  res.send('Shrek is forever alone');
 });
 
 // Start the server
